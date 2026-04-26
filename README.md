@@ -3,7 +3,7 @@
 ## 👤 Developer Information
 - **Name:** Ragul Rajkumar S
 - **SRN:** PES2UG24AM128
-- **Course:** Microprocessor and Computer Architecture (MPCA) / Computer Networks
+- **Course:** Computer Networks
 - **Institution:** PES University
 
 ---
